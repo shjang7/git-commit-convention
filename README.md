@@ -1,3 +1,7 @@
+# Best Practices
+
+https://github.com/andela/bestpractices/wiki/Git-naming-conventions-and-best-practices
+
 # The seven rules of a great Git commit message
 
 1. Separate subject from body with a blank line
