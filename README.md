@@ -3,13 +3,13 @@
 ### 1
 https://www.freecodecamp.org/news/writing-good-commit-messages-a-practical-guide/
 
-feat: The new feature you're adding to a particular application
-fix: A bug fix
-style: Feature and updates related to styling
-refactor: Refactoring a specific section of the codebase
-test: Everything related to testing
-docs: Everything related to documentation
-chore: Regular code maintenance.[ You can also use emojis to represent commit types]
+feat: The new feature you're adding to a particular application <br />
+fix: A bug fix <br />
+style: Feature and updates related to styling <br />
+refactor: Refactoring a specific section of the codebase <br />
+test: Everything related to testing <br />
+docs: Everything related to documentation <br />
+chore: Regular code maintenance.[ You can also use emojis to represent commit types] <br />
 
 ### 2
 https://github.com/andela/bestpractices/wiki/Git-naming-conventions-and-best-practices
